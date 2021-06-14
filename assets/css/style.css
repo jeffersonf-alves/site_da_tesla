@@ -19,15 +19,15 @@
 }
 body {
     font-family: 'GothamMedium', Helvetica, Arial;
-    font-size: 14px;
-    margin: 0;
+    font-size: 14px !important;
+    margin: 0 !important;
 }
 /* HEADER */
 header {
     display: flex;
     justify-content: space-between;
     height: 50px;
-    align-items: center;
+    align-items: center !important;
     position: fixed;
     top: 0;
     left: 0;
@@ -35,6 +35,7 @@ header {
 }
 header ul, header li {
     list-style: none;
+    margin-top: 10px;
 
 }
 header .logo {
@@ -43,6 +44,7 @@ header .logo {
 }
 header .middle ul {
     display: flex;
+    margin-top: 14px;
 }
 header .middle li {
     margin: 0 10px;
