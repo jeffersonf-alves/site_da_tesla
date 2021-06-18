@@ -1,2 +1,2 @@
-# site_da_tesla
-Recriando o site da tesla
+# Cópia do site da Tesla
+Recriando o site da tesla para aprender 
